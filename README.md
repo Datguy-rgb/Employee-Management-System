@@ -77,7 +77,7 @@ The system comes pre-loaded with sample employee data:
 - Optional country code: 0 or 91
 - Examples: `9876543210`, `919876543210`, `09876543210`
 
-## 📊 System Architecture
+## System Architecture
 
 ### Module Descriptions
 
