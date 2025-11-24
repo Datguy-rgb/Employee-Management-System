@@ -60,16 +60,16 @@ The system comes pre-loaded with sample employee data:
 
 | ID  | Name            | Email                      | Phone      | City    | Post      | Salary |
 |-----|-----------------|----------------------------|------------|---------|-----------|--------|
-| 101 | Aman Singh      | amankumar@gmail.com        | 9876543210 | Delhi   | CEO       | 55000  |
-| 102 | Vikas Tiwari    | vikastiv11@gmail.com       | 9123456789 | Mumbai  | Chairman  | 42000  |
+| 101 | Aman Singh      | amankumar@gmail.com        | 9876543210 | Delhi   | CEO       | 80000  |
+| 102 | Vikas Tiwari    | vikastiv11@gmail.com       | 9123456789 | Mumbai  | Chairman  | 50000  |
 | 103 | Shubh Thadani   | shubhmax@hotmail.com       | 8999988888 | Chennai | Cofounder | 60000  |
-| 104 | Rudreak Rokde   | rokdu991@outlook.com       | 8999988888 | Chennai | Cofounder | 60000  |
+| 104 | Rudreak Rokde   | rokdu991@outlook.com       | 7339655422 | Nashik  | Manager   | 20000  |
 
 ## Validation Rules
 
 ### Email Validation
 - Must follow standard email format: `username@domain.extension`
-- Example: `john.doe@example.com`
+- Example: `ankit.das@hotmail.com`
 
 ### Phone Number Validation
 - Indian phone number format
