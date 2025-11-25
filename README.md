@@ -50,7 +50,7 @@ employee-management-system/
 
 1. **Clone or Download the Project**
    ```bash
-   git clone (https://github.com/Datguy-rgb/Employee-Management-System/tree/main)
+   git clone https://github.com/Datguy-rgb/Employee-Management-System.git
    cd employee-management-system
    ```
 
